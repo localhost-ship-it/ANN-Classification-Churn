@@ -1,0 +1,9 @@
+WHAT ALL WE WILL BE USING IN THIS PROJECT :
+
+->tensorflow 
+->pandas
+->numpy
+->scikit-learn
+->tensorboard
+->matplotlib
+->streamlit
